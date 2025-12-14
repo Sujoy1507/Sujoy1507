@@ -6,27 +6,25 @@
   <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="320" />
 </p>
 
-<p align="center">
-  <b>Red • Violet • Gradient • Dark aesthetic</b>
-</p>
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90"/>
 
 ---
 
-### 🐍 Contribution Snake (Light)
+
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🌊 Flow Progress (FIXED)
-![GitHub Streak](https://streak-stats.demolab.com?user=sujoy1507&theme=highcontrast&hide_border=true)
+### 🌊 Flow Progress
+![Progress](https://github-readme-stats.vercel.app/api?username=sujoy1507&show_icons=true&theme=radical)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=25"/>
+
 
 ---
 
-### 📈 Activity Gradient
 ![activity](https://github-readme-activity-graph.vercel.app/graph?username=sujoy1507&bg_color=0d1117&color=8b0000&line=6a0dad&point=ff4d6d&hide_border=true)
 
 ---
