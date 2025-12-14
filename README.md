@@ -1,48 +1,72 @@
 ## Hi there 👋
-<h2 align="center">👋 Hello, I’m Sujoy</h2>
-<p align="center">
-Building skills in Web Development with a JavaScript focus
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&size=28
+&pause=1000
+&center=true
+&vCenter=true
+&width=500
+&color=58A6FF
+&lines=Hi+I'm+Sujoy;Aspiring+Full+Stack+Developer;JavaScript+Focused" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujoy1507&style=flat" />
-</p>
-
----
-
-### 💻 Skills & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
-  <img src="https://img.shields.io/badge/Git-black" />
+  <img src="https://komarev.com/ghpvc/?username=Sujoy1507&style=flat&color=blue" />
 </p>
 
 ---
 
-### 📈 GitHub Overview
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujoy1507&show_icons=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?logo=html5&logoColor=orange" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?logo=css3&logoColor=blue" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?logo=javascript&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Git-0D1117?logo=git&logoColor=orange" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?
+username=Sujoy1507
+&show_icons=true
+&theme=github_dark
+&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoy1507&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?
+user=Sujoy1507
+&theme=github-dark
+&hide_border=true" />
 </p>
 
 ---
 
-### 🔥 What I’m Working On
-- JavaScript fundamentals and patterns  
-- Mini projects for daily practice  
-- Preparing for full stack development  
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?
+username=Sujoy1507
+&theme=github-dark
+&hide_border=true" />
+</p>
 
 ---
 
-### 🌐 Find Me Online
-- LinkedIn  
-- GitHub  
+### 🧠 Currently Focused On
+<p align="center">
+JavaScript Deep Concepts • Full Stack Web Development
+</p>
 
 ---
+
+### 🔗 Connect
+<p align="center">
+LinkedIn • GitHub
+</p>
+
 
 
 
