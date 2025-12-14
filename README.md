@@ -1,48 +1,49 @@
 ## Hi there 👋
-
-<h1 align="center">Hi 👋 I'm Sujoy</h1>
-<p align="center">Aspiring Full Stack Web Developer</p>
+<h2 align="center">👋 Hello, I’m Sujoy</h2>
+<p align="center">
+Building skills in Web Development with a JavaScript focus
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sujoy1507" />
+  <img src="https://komarev.com/ghpvc/?username=Sujoy1507&style=flat" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML-orange" />
-  <img src="https://img.shields.io/badge/CSS-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow" />
+### 💻 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-black" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sujoy1507&show_icons=true" />
+### 📈 GitHub Overview
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujoy1507&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoy1507" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sujoy1507&theme=tokyonight" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sujoy1507" />
+### 🔥 What I’m Working On
+- JavaScript fundamentals and patterns  
+- Mini projects for daily practice  
+- Preparing for full stack development  
 
 ---
 
-### 🧠 Currently Learning
-- JavaScript Deep Concepts  
-- Full Stack Web Development  
-
----
-
-### 🔗 Connect With Me
+### 🌐 Find Me Online
 - LinkedIn  
 - GitHub  
+
+---
+
 
 
 
