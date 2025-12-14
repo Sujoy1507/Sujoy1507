@@ -1,71 +1,58 @@
-<!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=FF69B4&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sujoy;Full+Stack+Web+Developer;Focused+on+Consistency;Learning+Every+Single+Day">
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=8B0000&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Sujoy;Full+Stack+Web+Developer;Consistency+Over+Motivation">
 </h1>
 
-<!-- CUTE ANIMATED ANIMAL -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="320" />
+  <img src="https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif" width="320" />
 </p>
 
 <p align="center">
-  <b>Light theme • pink aesthetic • animated developer dashboard</b>
+  <b>Red • Violet • Gradient • Dark aesthetic</b>
 </p>
 
 ---
 
-<!-- WAVE DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=90&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90"/>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake (Light)
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 🌸 Flow Progress
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=sujoy1507&theme=rose_pine&hide_border=true)
+### 🌊 Flow Progress (FIXED)
+![GitHub Streak](https://streak-stats.demolab.com?user=sujoy1507&theme=highcontrast&hide_border=true)
 
 ---
 
-### 📈 Activity Graph
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=sujoy1507&bg_color=ffffff&color=ff69b4&line=ff69b4&point=ffb6c1&hide_border=true)
+### 📈 Activity Gradient
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=sujoy1507&bg_color=0d1117&color=8b0000&line=6a0dad&point=ff4d6d&hide_border=true)
 
 ---
 
 ### 🚀 Featured Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoy1507&repo=Web-Showcase&theme=rose_pine"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoy1507&repo=Mini-Project&theme=rose_pine"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoy1507&repo=Web-Showcase&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sujoy1507&repo=Mini-Project&theme=radical"/>
 </p>
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Stats
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sujoy1507&theme=flat&no-frame=true&column=6"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sujoy1507&show_icons=true&theme=radical"/>
 </p>
 
 ---
 
-### 📊 Stats Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujoy1507&show_icons=true&theme=rose_pine"/>
-</p>
+> Build slow. Build clean. Build forever.
 
----
-
-### ✨ Motto
-> Build quietly. Improve daily. Let consistency speak.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=90&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=90&section=footer"/>
